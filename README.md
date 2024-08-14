@@ -37,3 +37,7 @@ You can install the required packages using the following command:
 pip install transformers torch pandas scikit-learn numpy matplotlib seaborn jupyter
 
 ## Usage
+1. Clone the Repository:
+Clone this repository to your local machine using:
+```git clone https://github.com/yourusername/tinybert-sentiment-analysis.git
+```
