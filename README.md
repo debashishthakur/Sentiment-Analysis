@@ -39,11 +39,24 @@ pip install transformers torch pandas scikit-learn numpy matplotlib seaborn jupy
 ## Usage
 1. Clone the Repository:
 Clone this repository to your local machine using:
-```git clone https://github.com/yourusername/tinybert-sentiment-analysis.git```
+```git clone https://github.com/debashishthakur/tinybert-sentiment-analysis.git```
 2. Navigate to the Repository:
    ```cd tinybert-sentiment-analysis```
 3. Run Jupyter Notebook:
    ```jupyter notebook```
+## Results
+After running the notebooks, you should be able to:
+
+- **Predict the sentiment of text using a pretrained TinyBERT model.**
+- **Fine-tune TinyBERT on a custom sentiment analysis dataset and evaluate its performance.**
+- 
+## Conclusion
+This project demonstrates the use of TinyBERT for efficient and accurate sentiment analysis. The provided notebooks allow you to perform inference with a pretrained model and fine-tune the model on your own sentiment analysis dataset.
+
+
+
+# Contact
+For any questions or inquiries, please contact debashishthakur9@gmail.com.
    
 
 
