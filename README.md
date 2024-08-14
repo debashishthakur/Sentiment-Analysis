@@ -40,4 +40,10 @@ pip install transformers torch pandas scikit-learn numpy matplotlib seaborn jupy
 1. Clone the Repository:
 Clone this repository to your local machine using:
 ```git clone https://github.com/yourusername/tinybert-sentiment-analysis.git```
+2. Navigate to the Repository:
+   ```cd tinybert-sentiment-analysis```
+3. Run Jupyter Notebook:
+   ```jupyter notebook```
+   
+
 
