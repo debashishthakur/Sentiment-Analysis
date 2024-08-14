@@ -49,7 +49,6 @@ After running the notebooks, you should be able to:
 
 - **Predict the sentiment of text using a pretrained TinyBERT model.**
 - **Fine-tune TinyBERT on a custom sentiment analysis dataset and evaluate its performance.**
-- 
 ## Conclusion
 This project demonstrates the use of TinyBERT for efficient and accurate sentiment analysis. The provided notebooks allow you to perform inference with a pretrained model and fine-tune the model on your own sentiment analysis dataset.
 
